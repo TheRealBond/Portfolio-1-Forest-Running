@@ -3,11 +3,14 @@ h1 {
     text-align: center;
     font-size: 50px;
     font-family:Arial, Helvetica, sans-serif;
+    background-image: url("/Assets/images/sunrise-forest-header1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: lightgreen;
-    height: 100px;
+    height: 200px;
     width: 100%;
     margin: 0 auto;
-    padding: 0;
+    padding:5%;
 }
 
 #navigation {
