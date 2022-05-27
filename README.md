@@ -1,2 +1,46 @@
 # Portfolio-1-Forest-Running
 Portfolio project 1 website built using HTML and CSS to create a Forest of Dean running guide for my Code Institute - Full Stack Developer Course.
+
+Running in the Forest of Dean Home page:
+    This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run.
+
+Features:
+    Navigation - 
+        Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
+
+    The Header:
+        Provides a clear site title so the user knows what the topic of this site is and also a bold visual image of one of the great views that can be found when running in the Forest of Dean. Inviting them to explore further.
+
+    Run type selection section:
+        Allows the user to choose what type of run they wish to go on that when clicked takes them to the relevant internal page with more information providing a starting point, a recommended route and a glimpse of what type of views they may be able enjoy of that route.s
+
+    Image of forest view:
+        An image to engage the user with another beautiful view of the area they can choose to explore.
+
+    Social and Google Maps links:
+        Links provided to the user so that they can share their run with people to encourage the growth of running tourism in the Forest of Dean. Google Maps link also provided so that the user can find out how they can get to the area and their chosen start point.
+
+Testing:
+
+    Bugs:
+
+    Unfixed Bugs:
+
+    Validation testing:
+    HTML through official W3C validator returned:
+    CSS through official (jigsaw) validator returned:
+    Accessibility through lighthouse in devtools returned:
+
+Deployment:
+    Deployed to GitHub Pages via the following steps:
+        Create the site on GitPod from the Repository (Portfolio-1-Forest-Running
+) on GitHub. From the Repository go to the settings tab. Select the Pages sectionf from the Code and automation section. Select the Main branch as the source, /(root) and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
+
+    link to live running site:
+
+Credits:
+
+   Content - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by Font Awesome (https://fontawesome.com/)
+
+   Media - All images used have been provided by myself
+
