@@ -21,8 +21,15 @@ Features:
         Links provided to the user so that they can share their run with people to encourage the growth of running tourism in the Forest of Dean. Google Maps link also provided so that the user can find out how they can get to the area and their chosen start point.
 
 Testing:
+    General 
+            - Website has been tested to work on different browsers: Chrome, Safari, Edge.
+            - All text is easily readable and layed out in a logical way to help navigation.
+            - All links internal and external are functioning correctly.
+            - Wesbite is reponsive and all functions work across a variety of screen sizes.
 
     Bugs:
+        - When Website was first deployed via GitHub Pages no images were being loaded.
+        - This has now been fixed by adding . before the / on the file path for all images as shown here (src="./assets/images/forest-sunny-view.jpg")
 
     Unfixed Bugs:
 
