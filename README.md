@@ -47,7 +47,12 @@ Deployment:
 
 Credits:
 
-   Content - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by Font Awesome (https://fontawesome.com/)
+   Content 
+    - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by Font Awesome (https://fontawesome.com/)
+    - Weather widget from https://weatherwidget.io/ code[<a class="weatherwidget-io" href="https://forecast7.com/en/51d79n2d62/coleford/" data-label_1="COLEFORD" data-label_2="WEATHER" data-theme="original" >COLEFORD WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>]
 
    Media - All images used have been provided by myself
 
