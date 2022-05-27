@@ -13,7 +13,7 @@ h1 {
     padding:5%;
 }
 
-#navigation  li{
+#navigation li{
     float:right;
     list-style: none;
 }
@@ -27,6 +27,7 @@ h1 {
 
 body { 
 font-family: Arial, Helvetica, sans-serif;
+background-color: lightgreen;
 }
 
 @media screen and (max-width: 1100px) {
