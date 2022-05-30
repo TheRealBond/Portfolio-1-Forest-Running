@@ -47,5 +47,5 @@ background-color: lightgreen;
 
 @media screen and (max-width: 1000px) {
     h1, h2, h3 {text-align: center;}
-    .center{ width:100%;} 
+    .center{ width:100%; height: 75%;} 
 }
