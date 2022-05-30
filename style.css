@@ -17,6 +17,7 @@ h1 {
     float:right;
     list-style-type: none;
     text-decoration: none;
+    font-size: 25px;
 }
 
 .nav-menu {
