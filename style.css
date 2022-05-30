@@ -17,7 +17,7 @@ h1 {
     float:right;
     list-style-type: none;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 3vw;
 }
 
 .nav-menu {
@@ -29,7 +29,7 @@ h1 {
 
 #run-selector li {
     color: darkgoldenrod;
-    font-size: 15px;
+    font-size: 2vw;
     list-style: square;
 }
 
