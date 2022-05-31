@@ -10,6 +10,8 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
     The Header:
         Provides a clear site title so the user knows what the topic of this site is and also a bold visual image of one of the great views that can be found when running in the Forest of Dean. Inviting them to explore further.
+        
+  ![Header image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/header.png?raw=true)
 
     Navigation - 
         Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
