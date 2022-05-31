@@ -3,16 +3,14 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
 ## Running in the Forest of Dean Home page:
     This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run.
-    ![homepage image](/workspace/Portfolio-1-Forest-Running/assets/images/welcomepage.png)
+
 ### Features:
 
     The Header:
         Provides a clear site title so the user knows what the topic of this site is and also a bold visual image of one of the great views that can be found when running in the Forest of Dean. Inviting them to explore further.
 
-
     Navigation - 
         Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
-        ![image of navigation bar](./assets/images/navigationbar.png)
 
     Run type selection section:
         Allows the user to choose what type of run they wish to go on that when clicked takes them to the relevant internal page with more information providing a starting point, a recommended route and a glimpse of what type of views they may be able enjoy of that route.s
