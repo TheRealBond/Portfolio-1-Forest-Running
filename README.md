@@ -6,11 +6,11 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
 ### Features:
 
-    Navigation - 
-        Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
-
     The Header:
         Provides a clear site title so the user knows what the topic of this site is and also a bold visual image of one of the great views that can be found when running in the Forest of Dean. Inviting them to explore further.
+
+    Navigation - 
+        Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
 
     Run type selection section:
         Allows the user to choose what type of run they wish to go on that when clicked takes them to the relevant internal page with more information providing a starting point, a recommended route and a glimpse of what type of views they may be able enjoy of that route.s
@@ -38,9 +38,9 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
     Validation testing:
 
-    HTML through official W3C validator returned: No errors 
+    HTML through official [W3C validator](https://validator.w3.org/) returned: No errors 
 
-    CSS through official W3C validator(jigsaw) returned: No errors
+    CSS through official [W3C validator jigsaw](https://jigsaw.w3.org/css-validator/) returned: No errors
 
     Accessibility through lighthouse in devtools returned:
 
@@ -56,12 +56,12 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
    Content 
 
-    - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by Font Awesome (https://fontawesome.com/)
+    - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by [Font Awesome](https://fontawesome.com/)
 
-    - Weather widget from https://weatherwidget.io/ code used[<a class="weatherwidget-io" href="https://forecast7.com/en/51d79n2d62/coleford/" data-label_1="COLEFORD" data-label_2="WEATHER" data-theme="original" >COLEFORD WEATHER</a>
+    - [Weather widget](https://weatherwidget.io/) code used: <a class="weatherwidget-io" href="https://forecast7.com/en/51d79n2d62/coleford/" data-label_1="COLEFORD" data-label_2="WEATHER" data-theme="original" >COLEFORD WEATHER</a>
     <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-    </script>]
+    </script>
 
    Media:
    - All images used have been provided by myself.
