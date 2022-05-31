@@ -4,6 +4,8 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 ## Running in the Forest of Dean Home page:
     This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run.
 
+![homepage image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/welcomepage.png?raw=true)
+
 ### Features:
 
     The Header:
