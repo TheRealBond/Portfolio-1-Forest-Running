@@ -58,7 +58,7 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
     - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by [Font Awesome](https://fontawesome.com/)
 
-    - [Weather widget](https://weatherwidget.io/) code used: <a class="weatherwidget-io" href="https://forecast7.com/en/51d79n2d62/coleford/" data-label_1="COLEFORD" data-label_2="WEATHER" data-theme="original" >COLEFORD WEATHER</a>
+    - [Weather widget](https://weatherwidget.io/) provided a great item to add to the website to provide weather infomration that would help the user plane their run, code used: > <a class="weatherwidget-io" href="https://forecast7.com/en/51d79n2d62/coleford/" data-label_1="COLEFORD" data-label_2="WEATHER" data-theme="original" >COLEFORD WEATHER</a>
     <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
     </script>
