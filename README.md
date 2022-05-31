@@ -5,6 +5,7 @@ Running in the Forest of Dean Home page:
     This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run.
 
 Features:
+
     Navigation - 
         Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
 
@@ -21,6 +22,7 @@ Features:
         Links provided to the user so that they can share their run with people to encourage the growth of running tourism in the Forest of Dean. Google Maps link also provided so that the user can find out how they can get to the area and their chosen start point.
 
 Testing:
+
     General 
             - Website has been tested to work on different browsers: Chrome, Safari, Edge.
             - All text is easily readable and layed out in a logical way to help navigation.
@@ -35,25 +37,32 @@ Testing:
         -None
 
     Validation testing:
+
     HTML through official W3C validator returned: No errors 
+
     CSS through official W3C validator(jigsaw) returned: No errors
+
     Accessibility through lighthouse in devtools returned:
 
 Deployment:
+
     Deployed to GitHub Pages via the following steps:
         Create the site on GitPod from the Repository (Portfolio-1-Forest-Running
-) on GitHub. From the Repository go to the settings tab. Select the Pages sectionf from the Code and automation section. Select the Main branch as the source, /(root) and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
+        ) on GitHub. From the Repository go to the settings tab. Select the Pages sectionf from the Code and automation section. Select the Main branch as the source, /(root) and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
 
     link to live running site:
 
 Credits:
 
    Content 
-    - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by Font Awesome (https://fontawesome.com/)
-    - Weather widget from https://weatherwidget.io/ code[<a class="weatherwidget-io" href="https://forecast7.com/en/51d79n2d62/coleford/" data-label_1="COLEFORD" data-label_2="WEATHER" data-theme="original" >COLEFORD WEATHER</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>]
 
-   Media - All images used have been provided by myself
+    - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by Font Awesome (https://fontawesome.com/)
+
+    - Weather widget from https://weatherwidget.io/ code used[<a class="weatherwidget-io" href="https://forecast7.com/en/51d79n2d62/coleford/" data-label_1="COLEFORD" data-label_2="WEATHER" data-theme="original" >COLEFORD WEATHER</a>
+    <script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+    </script>]
+
+   Media:
+   - All images used have been provided by myself.
 
