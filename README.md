@@ -3,14 +3,17 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
 ## Running in the Forest of Dean Home page:
     This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run.
+    ![image of home page](./assets/images/welcomepage.png)
 
 ### Features:
 
     The Header:
         Provides a clear site title so the user knows what the topic of this site is and also a bold visual image of one of the great views that can be found when running in the Forest of Dean. Inviting them to explore further.
+        ![image of header](./assets/images/header.png)
 
     Navigation - 
         Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
+        ![image of navigation bar](./assets/images/navigationbar.png)
 
     Run type selection section:
         Allows the user to choose what type of run they wish to go on that when clicked takes them to the relevant internal page with more information providing a starting point, a recommended route and a glimpse of what type of views they may be able enjoy of that route.s
@@ -50,7 +53,7 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
         Create the site on GitPod from the Repository (Portfolio-1-Forest-Running
         ) on GitHub. From the Repository go to the settings tab. Select the Pages sectionf from the Code and automation section. Select the Main branch as the source, /(root) and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
 
-    link to live running site:
+    [link to live running site:](https://therealbond.github.io/Portfolio-1-Forest-Running/)
 
 ### Credits:
 
