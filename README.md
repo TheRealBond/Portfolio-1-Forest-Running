@@ -1,10 +1,10 @@
 # Forest-Running
 This website is built using HTML and CSS to create a Forest of Dean running guide providing the user a choice of different running start points and style with a recommended rough route to start their eploration of the beautiful Forest of Dean.
 
-Running in the Forest of Dean Home page:
+## Running in the Forest of Dean Home page:
     This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run.
 
-Features:
+### Features:
 
     Navigation - 
         Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
@@ -21,7 +21,7 @@ Features:
     Social and Google Maps links:
         Links provided to the user so that they can share their run with people to encourage the growth of running tourism in the Forest of Dean. Google Maps link also provided so that the user can find out how they can get to the area and their chosen start point.
 
-Testing:
+### Testing:
 
     General 
             - Website has been tested to work on different browsers: Chrome, Safari, Edge.
@@ -44,7 +44,7 @@ Testing:
 
     Accessibility through lighthouse in devtools returned:
 
-Deployment:
+### Deployment:
 
     Deployed to GitHub Pages via the following steps:
         Create the site on GitPod from the Repository (Portfolio-1-Forest-Running
@@ -52,7 +52,7 @@ Deployment:
 
     link to live running site:
 
-Credits:
+### Credits:
 
    Content 
 
