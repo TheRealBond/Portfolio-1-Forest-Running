@@ -48,7 +48,9 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
     CSS through official [W3C validator jigsaw](https://jigsaw.w3.org/css-validator/) returned: No errors
 
-    Accessibility through lighthouse in devtools returned:
+    Accessibility through Lighthouse in devtools returned:
+    
+ ![Lighthouse test result image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/lighthouse-test-result.png?raw=true)
 
 ### Deployment:
 
