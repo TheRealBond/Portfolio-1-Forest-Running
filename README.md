@@ -1,8 +1,8 @@
 # Forest-Running
-This website is built using HTML and CSS to create a Forest of Dean running guide providing the user a choice of different running start points and style with a recommended rough route to start their eploration of the beautiful Forest of Dean.
+    This website is built using HTML and CSS to create a Forest of Dean running guide providing the user a choice of different running start points and run type with a recommended rough route to start their eploration of the beautiful Forest of Dean.
 
 ## Running in the Forest of Dean Home page:
-    This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run.
+    This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run. The aim of this page is encourage the user to explore the site and the Forest of Dean more.
 
 ![homepage image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/welcomepage.png?raw=true)
 
@@ -58,7 +58,7 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
     Deployed to GitHub Pages via the following steps:
         Create the site on GitPod from the Repository (Portfolio-1-Forest-Running
-        ) on GitHub. From the Repository go to the settings tab. Select the Pages sectionf from the Code and automation section. Select the Main branch as the source, /(root) and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
+        ) on GitHub. From the Repository go to the settings tab. Select the Pages section from the Code and automation section. Select the Main branch as the source, /(root) and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
 
     [link to live running site:](https://therealbond.github.io/Portfolio-1-Forest-Running/)
 
@@ -66,9 +66,9 @@ This website is built using HTML and CSS to create a Forest of Dean running guid
 
    Content 
 
-    - Icons used for social links in the Share your run section with others and the runner icon in the run type selection section are provided by [Font Awesome](https://fontawesome.com/)
+    - Icons used for social media links in the Share your run section with others and the runner icon in the run type selection section are provided by [Font Awesome](https://fontawesome.com/)
 
-    - [Weather widget](https://weatherwidget.io/) provided a great item to add to the website to provide weather infomration that would help the user plane their run, code used: 
+    - [Weather widget](https://weatherwidget.io/) provided a great item to add to the website to provide weather information that would help the user plan their run, code used: 
     ``` <a class="weatherwidget-io" href="https://forecast7.com/en/51d79n2d62/coleford/" data-label_1="COLEFORD" data-label_2="WEATHER" data-theme="original" >COLEFORD WEATHER</a>
     <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
