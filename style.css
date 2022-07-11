@@ -1,3 +1,4 @@
+/*Page header and background image styling */
 h1 {
     color: darkgreen;
     text-align: center;
@@ -13,6 +14,7 @@ h1 {
     padding:5%;
 }
 
+/*Navigation styling for the list of run style choices on index.html homepage */
 #navigation li{
     float:right;
     list-style-type: none;
@@ -20,6 +22,7 @@ h1 {
     font-size: 3vw;
 }
 
+/*Navigation menu styling to fit at tip of the page underneath the header */
 .nav-menu {
     display: flex;
     flex-direction: row;
@@ -27,17 +30,20 @@ h1 {
     align-items: center;
 }
 
+/*Styling for the bullet point display portion of the run type selector on index.html homepage */
 #run-selector li {
     color: darkgoldenrod;
     font-size: 2vw;
     list-style: square;
 }
 
+/*Main body styling of the websites content for background base colour and fonts */
 body { 
 font-family: Arial, Helvetica, sans-serif;
 background-color: lightgreen;
 }
 
+/*Styling responsible for the central placement of content when given this class */
 .center{
     display: block;
     margin-left: auto;
@@ -45,6 +51,7 @@ background-color: lightgreen;
     width: 60%;
 }
 
+/*Responsible for the way the website reacts to varying screen sizes */
 @media screen and (max-width: 1000px) {
     h1, h2, h3 {text-align: center;}
     .center{ width:100%; height: 75%;} 
