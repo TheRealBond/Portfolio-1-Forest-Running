@@ -1,36 +1,40 @@
 # Forest-Running
-    This website is built using HTML and CSS to create a Forest of Dean running guide providing the user a choice of different running start points and run type with a recommended rough route to start their eploration of the beautiful Forest of Dean.
 
-## Running in the Forest of Dean Home page:
-    This is the main landing page of my website created to allow the user to choose the type of run they wish to go for and they are then provided a start point via a link to another internal page with more information relating to that type of run. The aim of this page is encourage the user to explore the site and the Forest of Dean more.
+This website is built using HTML and CSS to create a Forest of Dean running guide providing the user a choice of different running start points and run type with a recommended rough route to start their eploration of the beautiful Forest of Dean.
 
-![homepage image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/welcomepage.png?raw=true)
+It is designed to attract new runners to the area and encourage local runners to explore new routes with the use of spectacular images that can be found on each particular run. It does not not give the user an exact route to follow as I want to encourage runners to explore and enjoy the challenge of trying to find the view shown on the website. They can then share this on various social media services which are linked on this website to drive running tourism in the Forest of Dean.
 
-### Features:
+## Features
 
-    The Header:
-        Provides a clear site title so the user knows what the topic of this site is and also a bold visual image of one of the great views that can be found when running in the Forest of Dean. Inviting them to explore further.
+- __Welcome Image and Header__
+
+  - This image and Header title welcomes the user to the website and remains there across all five pages. It provides a clear site title so the user knows what the topic of this site is straight away and also a bold visual image of one of the great views that can be found when running in the Forest of Dean. Inviting them to explore the website and the Forest of Dean further.
         
   ![Header image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/header.png?raw=true)
 
-    Navigation - 
-        Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages.
+- __Navigation Bar__ 
+    
+    - Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages. This encourages them to look in to all the types of runs that they can enjoy and what other views they may be able to find.
         
    ![navigation bar image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/navigationbar.png?raw=true)
 
-    Run type selection section:
-        Allows the user to choose what type of run they wish to go on that when clicked takes them to the relevant internal page with more information providing a starting point, a recommended route and a glimpse of what type of views they may be able enjoy on that route.
+- __Run type selection section__
+    
+    - Allows the user to choose what type of run they wish to go on that when clicked takes them to the relevant internal page with more information providing a starting point, a recommended route and a glimpse of the type of views they may be able enjoy on that route.
         
  ![image of run selector section](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/run-selector.png?raw=true)
 
-    Image of forest view:
-        An image to engage the user with another beautiful view of the area they can choose to explore.
-
-    Social and Google Maps links with weather widget:
-        Links provided to the user so that they can share their run with people to encourage the growth of running tourism in the Forest of Dean. Google Maps link also provided so that the user can find out how they can get to the area and their chosen start point with a weather widget showing the local forecast to allow them to plan their run and kit choice.
+- __Image of forest view__
         
-     Youtube iframe:
-        One of the best running songs to help motivate user to get out and run linked to youtube video so they can control and listen when they want as they browse the home page.
+    - An image to engage the user with another beautiful view of the area they can choose to explore shown on the home page which then displays a new view that they can find depending which run type they choose and are currently viewing that runs page.
+
+    ![image of running view](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/running-view-feature.png?raw=true)
+
+- __Social and Google Maps links with weather widget__
+    - Links provided to the user so that they can share their run with people to encourage the growth of running tourism in the Forest of Dean. Google Maps link also provided so that the user can find out how they can get to the area and their chosen start point with a weather widget showing the local forecast to allow them to plan their run and kit choice.
+        
+- __Youtube iframe__
+    - One of the best running songs to help motivate the user to get out and run linked to youtube video so they can control and listen when they want as they browse the website.
 
 ### Testing:
 
