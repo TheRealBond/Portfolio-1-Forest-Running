@@ -54,7 +54,7 @@ It is designed to attract new runners to the area and encourage local runners to
   - Website has been tested to work on different browsers: Chrome, Safari, Edge.
   - All text is easily readable and layed out in a logical way to help navigation.
   - All links internal and external are functioning correctly.
-  - Wesbite is reponsive and all functions work across a variety of screen sizes.
+  - Website is reponsive and all functions work across a variety of screen sizes.
 
 - __Bugs__
 
