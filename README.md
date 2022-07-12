@@ -86,6 +86,8 @@ It is designed to attract new runners to the area and encourage local runners to
 
 - __Content__
 
+  - favcion provided the medal icon that is seen in the top of the browser tab next to the page title that gives charming medal appearance as all runners love a medal after a run [favcion.io](https://favicon.io/emoji-favicons/sports-medal).
+
   - Icons used for social media links in the Share your run section with others and the runner icon in the run type selection section are provided by [Font Awesome](https://fontawesome.com/)
 
   - [Weather widget](https://weatherwidget.io/) provided a great item to add to the website to provide weather information that would help the user plan their run, code used: 
