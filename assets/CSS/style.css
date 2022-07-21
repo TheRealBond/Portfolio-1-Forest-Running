@@ -18,6 +18,7 @@ h1 {
     float:right;
     list-style-type: none;
     text-decoration: none;
+    padding-inline: 5px;
 }
 
 /*Navigation menu styling to fit at tip of the page underneath the header */
