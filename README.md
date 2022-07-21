@@ -1,8 +1,8 @@
 # Forest-Running
 
-This website is built using HTML and CSS to create a Forest of Dean running guide providing the user a choice of different running start points and run type with a recommended rough route to start their eploration of the beautiful Forest of Dean.
+This website is built using HTML and CSS to create a Forest of Dean running guide providing the user a choice of different running start points and run types with a recommended rough route to start their exploration of the beautiful Forest of Dean.
 
-It is designed to attract new runners to the area and encourage local runners to explore new routes with the use of spectacular images that can be found on each particular run. It does not not give the user an exact route to follow as I want to encourage runners to explore and enjoy the challenge of trying to find the view shown on the website. They can then share this on various social media services which are linked on this website to drive running tourism in the Forest of Dean.
+It is designed to attract new runners to the area and encourage local runners to explore new routes with the use of spectacular images that can be found on each particular run. It does not give the user an exact route to follow as I want to encourage runners to explore and enjoy the challenge of trying to find the view shown on the website. They can then share this on various social media services which are linked on this website to drive running tourism in the Forest of Dean.
 
 ## Features
 
@@ -14,33 +14,33 @@ It is designed to attract new runners to the area and encourage local runners to
 
 - __Navigation Bar__ 
     
-  - Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages. This encourages them to look in to all the types of runs that they can enjoy and what other views they may be able to find.
+  - Provides the user site navigation via a bar with links to each internal page for fast intuitive movement around all pages. This encourages them to look into all the types of runs that they can enjoy and what other views they may be able to find.
         
    ![navigation bar image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/navigationbar.png?raw=true)
 
 - __Run type selection section__
     
-  - Allows the user to choose what type of run they wish to go on that when clicked takes them to the relevant internal page with more information providing a starting point, a recommended route and a glimpse of the type of views they may be able enjoy on that route.
+  - Allows the user to choose what type of run they wish to go on that when clicked takes them to the relevant internal page with more information providing a starting point, a recommended route, and a glimpse of the type of views they may be able to enjoy on that route.
         
  ![image of run selector section](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/run-selector.png?raw=true)
 
 - __Image of forest view__
         
-  - An image to engage the user with another beautiful view of the area they can choose to explore shown on the home page which then displays a new view that they can find depending which run type they choose and are currently viewing that runs page.
+  - An image to engage the user with another beautiful view of the area they can choose to explore is shown on the home page which then displays a new view that they can find depending on which run type they choose and are currently viewing that runs page.
 
     ![image of running view](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/running-view-feature.png?raw=true)
 
 - __Google Maps links with weather widget__
 
-  - Google Maps link provided so that the user can find out how they can get to the area and their chosen start point with a weather widget showing the local forecast to allow them to plan their run and kit choice.
+  - Google Maps link is provided so that the user can find out how they can get to the area and their chosen start point with a weather widget showing the local forecast to allow them to plan their run and kit choice.
         
 - __Youtube iframe__
 
-  - One of the best running songs to help motivate the user to get out and run linked to youtube video so they can control and listen when they want as they browse the website.
+  - One of the best running songs to help motivate the user to get out and run is linked to a youtube video so they can control and listen when they want as they browse the website.
 
 - __Footer__
 
-  - Links provided to the user so that they can share their run with people via social media to encourage the growth of running tourism in the Forest of Dean. 
+  - Links are provided to the user so that they can share their run with people via social media to encourage the growth of running tourism in the Forest of Dean. 
 
 ### Future Feature Ideas
 
@@ -51,14 +51,14 @@ It is designed to attract new runners to the area and encourage local runners to
 
 - __General__
 
-  - Website has been tested to work on different browsers: Chrome, Safari, Edge.
-  - All text is easily readable and layed out in a logical way to help navigation.
+  - The website has been tested to work on different browsers: Chrome, Safari, Edge.
+  - All text is easily readable and laid out in a logical way to help navigation.
   - All links internal and external are functioning correctly.
-  - Website is reponsive and all functions work across a variety of screen sizes.
+  - The website is responsive and all functions work across a variety of screen sizes.
 
 - __Bugs__
 
-  - When Website was first deployed via GitHub Pages no images were being loaded.
+  - When the website was first deployed via GitHub Pages no images were being loaded.
   - This has now been fixed by adding . before the / on the file path for all images as shown here (src="./assets/images/forest-sunny-view.jpg")
 
 - __Unfixed Bugs__
@@ -68,7 +68,7 @@ It is designed to attract new runners to the area and encourage local runners to
 
   - HTML through official [W3C validator](https://validator.w3.org/) returned: No errors returned when each page was run through the HTML validator individually.
 
-  - CSS through official [W3C validator jigsaw](https://jigsaw.w3.org/css-validator/) returned: No errors returned from offcial site.
+  - CSS through official [W3C validator jigsaw](https://jigsaw.w3.org/css-validator/) returned: No errors returned from official site.
 
   - Accessibility through Lighthouse in devtools returned:
     
@@ -78,7 +78,7 @@ It is designed to attract new runners to the area and encourage local runners to
 
   - Deployed to GitHub Pages via the following steps:
         Create the site on GitPod from the Repository (Portfolio-1-Forest-Running
-        ) on GitHub. From the Repository go to the settings tab. Select the Pages section from the Code and automation section. Select the Main branch as the source, /(root) and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
+        ) on GitHub. From the Repository go to the settings tab. Select the Pages section from the Code and automation section. Select the Main branch as the source, /(root), and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
 
   - [link to live running site:](https://therealbond.github.io/Portfolio-1-Forest-Running/)
 
@@ -86,7 +86,7 @@ It is designed to attract new runners to the area and encourage local runners to
 
 - __Content__
 
-  - favcion provided the medal icon that is seen in the top of the browser tab next to the page title that gives charming medal appearance as all runners love a medal after a run [favcion.io](https://favicon.io/emoji-favicons/sports-medal).
+  - favicon provided the medal icon that is seen at the top of the browser tab next to the page title that gives a charming medal appearance as all runners love a medal after a run [favcion.io](https://favicon.io/emoji-favicons/sports-medal).
 
   - Icons used for social media links in the Share your run section with others and the runner icon in the run type selection section are provided by [Font Awesome](https://fontawesome.com/)
 
