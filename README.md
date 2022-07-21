@@ -51,7 +51,7 @@ It is designed to attract new runners to the area and encourage local runners to
 
 - __General__
 
-  - The website has been tested to work on different browsers: Chrome, Safari, Edge.
+  - The website has been tested to work on different browsers: Chrome, Safari, and Edge.
   - All text is easily readable and laid out in a logical way to help navigation.
   - All links internal and external are functioning correctly.
   - The website is responsive and all functions work across a variety of screen sizes.
