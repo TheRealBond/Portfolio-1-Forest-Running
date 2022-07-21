@@ -68,9 +68,9 @@ It is designed to attract new runners to the area and encourage local runners to
 
   - HTML through official [W3C validator](https://validator.w3.org/) returned: No errors returned when each page was run through the HTML validator individually.
 
-  - CSS through official [W3C validator jigsaw](https://jigsaw.w3.org/css-validator/) returned: No errors returned from official site.
+  - CSS through official [W3C validator jigsaw](https://jigsaw.w3.org/css-validator/) returned: No errors returned from the official site.
 
-  - Accessibility through Lighthouse in devtools returned:
+  - Accessibility through Lighthouse in dev tools returned:
     
  ![Lighthouse test result image](https://github.com/TheRealBond/Portfolio-1-Forest-Running/blob/main/assets/images/lighthouse-test-result.png?raw=true)
 
