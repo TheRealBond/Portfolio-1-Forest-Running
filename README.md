@@ -80,7 +80,11 @@ It is designed to attract new runners to the area and encourage local runners to
         Create the site on GitPod from the Repository (Portfolio-1-Forest-Running
         ) on GitHub. From the Repository go to the settings tab. Select the Pages section from the Code and automation section. Select the Main branch as the source, /(root), and click save. This then published the site with all updates being pushed from GitPod using the Git Push terminal command.
 
-  - [link to live running site:](https://therealbond.github.io/Portfolio-1-Forest-Running/)
+  - Git Pod:
+        This website was built using Git Pod, running in the chrome browser tool which allowed it to be built and tested the using the python3 -m http.server command in the terminal. That hosts the website internally before then publishing it to GitHub as described above. This allowed the quick set up and testing of features as they are built, as any changes made to the code are shown immediately when the python3 opened page is fully refreshed.
+        The index.html was created first with basic holding text placed and the assets folder that now holds the CSS and images folder were also created before the remaining html pages were added. Once all the html pages were created and the links between them confirmed as working, images could start to be added and CSS styling was also added as the strcuture of the website was inplace.
+
+  - [link to live running site](https://therealbond.github.io/Portfolio-1-Forest-Running/)
 
 ## Credits 
 
