@@ -18,7 +18,6 @@ h1 {
     float:right;
     list-style-type: none;
     text-decoration: none;
-    font-size: 3vw;
 }
 
 /*Navigation menu styling to fit at tip of the page underneath the header */
@@ -32,7 +31,6 @@ h1 {
 /*Styling for the bullet point display portion of the run type selector on index.html homepage */
 #run-selector li {
     color: darkgoldenrod;
-    font-size: 2vw;
     list-style: square;
 }
 
